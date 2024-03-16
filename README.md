@@ -1,6 +1,11 @@
 # Hi, I'm Dhanaraj Bhaskar (💻💖☕) [![nominate](https://img.shields.io/badge/nominate-%20@dhanarajb%20as%20GitHub%20Star-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Self-taught+Software+Engineer;Open-Source+Maintainer;Open-Source+Advocate;Cybersecurity+Researcher;Web3+Enthusiast;Technopreneur)](https://git.io/typing-svg)
+<a href="[https://developer.android.com/reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)"><img src="![image](https://github.com/Dhanarajb/Dhanarajb/assets/88299676/72bac343-80bc-49fb-98cb-f0b8af43e8a7)
+" alt="android" height="100" title="Javascript"></a>
+<a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
+<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
+<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
+<a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
 
 [![An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/warengonzaga)](https://holopin.io/@warengonzaga)
 
