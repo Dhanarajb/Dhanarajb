@@ -36,8 +36,7 @@
 
 ## 📫 Get in Touch:
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/dhanarajb)
-- Follow me on [Twitter](https://twitter.com/dhanarajb)
-- Visit my [website](https://www.dhanarajb.com) for more information
+- Connect with me on [LinkedIn]([https://www.linkedin.com/in/dhanarajb](https://www.linkedin.com/in/dhanaraj-bhaskar-532111b9/))
+- Follow me on [Twitter]([https://twitter.com/dhanarajb](https://twitter.com/b_dhanaraj))
 
 Let's connect and collaborate on exciting projects together! 😊
