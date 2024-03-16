@@ -15,7 +15,11 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Dhanarajb?style=social)](https://github.com/Dhanarajb)
 
-I'm a passionate software developer with expertise in various technologies. Here's a glimpse of what I work with:
+<div style="overflow: hidden;">
+    <p style="white-space: nowrap; animation: slide 10s linear infinite;">
+        I'm a passionate software developer with expertise in various technologies. Here's a glimpse of what I work with:
+    </p>
+</div>
 
 ## 💻 Technologies I Work With:
 
