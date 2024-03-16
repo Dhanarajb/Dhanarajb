@@ -13,7 +13,8 @@
 
 
 
-![Dhanarajb's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dhanarajb)
+[![GitHub stars](https://img.shields.io/github/stars/Dhanarajb?style=social)](https://github.com/Dhanarajb)
+
 
 
 A Filipino self-taught software engineer, open-source maintainer, cybersecurity researcher, tech community builder, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
