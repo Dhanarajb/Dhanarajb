@@ -13,7 +13,8 @@
 
 
 
-[![An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/warengonzaga)](https://holopin.io/@warengonzaga)
+![Dhanarajb's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dhanarajb)
+
 
 A Filipino self-taught software engineer, open-source maintainer, cybersecurity researcher, tech community builder, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
 
