@@ -1,4 +1,5 @@
 # Hi, I'm Dhanaraj Bhaskar (💻💖☕) [![nominate](https://img.shields.io/badge/nominate-%20@dhanarajb%20as%20GitHub%20Star-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
+[](https://medium.com/@dhanarajbhaskar)
 
 
 <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" height="100" title="Java documentation" style="animation: pulse 1s infinite alternate;"></a>
