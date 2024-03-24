@@ -2,7 +2,8 @@
 
 [Medium](https://medium.com/@dhanarajbhaskar)
 
-![Waving Hand](https://media.giphy.com/media/3ohhwditQcN3MNm7E4/giphy.gif)
+![Front-End Development](https://media.giphy.com/media/XbT8UqCSF6n7KOvrAs/giphy.gif)
+
 
 
 
