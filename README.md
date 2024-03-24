@@ -2,6 +2,9 @@
 
 [Medium](https://medium.com/@dhanarajbhaskar)
 
+![Waving Hand](https://media.giphy.com/media/3ohhwditQcN3MNm7E4/giphy.gif)
+
+
 
 <a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" height="100" title="Java documentation" style="animation: pulse 1s infinite alternate;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="100" title="HTML5" style="animation: pulse 1s infinite alternate;"></a>
