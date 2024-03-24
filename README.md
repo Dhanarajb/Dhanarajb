@@ -7,8 +7,8 @@
 </p>
 
 
-<a href="https://docs.oracle.com/en/java/"><img src="
-https://miro.medium.com/v2/resize:fit:502/0*8Au6QYi7tfdafaBQ.gif" alt="java" height="100" title="Java documentation" style="animation: pulse 1s infinite alternate;"></a>
+[<img src="https://miro.medium.com/v2/resize:fit:502/0*8Au6QYi7tfdafaBQ.gif" alt="java" height="100" title="Java documentation" style="animation: pulse 1s infinite alternate;">](https://docs.oracle.com/en/java/)
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="100" title="HTML5" style="animation: pulse 1s infinite alternate;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="100" title="CSS3" style="animation: pulse 1s infinite alternate;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="100" title="JavaScript" style="animation: pulse 1s infinite alternate;"></a>
