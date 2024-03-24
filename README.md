@@ -2,7 +2,7 @@
 
 [Medium](https://medium.com/@dhanarajbhaskar)
 
-![Front-End Development](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdresma.ai%2Fjobs%2Fback-end-developer-nodejs%2F&psig=AOvVaw3jk748AyChliI6_jbxOyol&ust=1711338450306000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCt-dT-i4UDFQAAAAAdAAAAABAE)
+![Front-End Development]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fdresma.ai%2Fjobs%2Fback-end-developer-nodejs%2F&psig=AOvVaw3jk748AyChliI6_jbxOyol&ust=1711338450306000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCt-dT-i4UDFQAAAAAdAAAAABAE](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qciKgKuGSCg3rSekbvTRxQ.gif))
 
 
 
