@@ -2,8 +2,7 @@
 
 [Medium](https://medium.com/@dhanarajbhaskar)
 
-![Front-End Development]([https://media.giphy.com/media/XbT8UqCSF6n7KOvrAs/giphy.gif](https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-1.gif))
-
+![Front-End Development](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdresma.ai%2Fjobs%2Fback-end-developer-nodejs%2F&psig=AOvVaw3jk748AyChliI6_jbxOyol&ust=1711338450306000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCt-dT-i4UDFQAAAAAdAAAAABAE)
 
 
 
