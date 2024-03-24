@@ -6,9 +6,10 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qciKgKuGSCg3rSekbvTRxQ.gif" alt="Front-End Development" width="400">
 </p>
 
-<span>[<img src="https://miro.medium.com/v2/resize:fit:502/0*8Au6QYi7tfdafaBQ.gif" alt="java" height="100" title="Java documentation" style="animation: pulse 1s infinite alternate;">](https://docs.oracle.com/en/java/)</span>
+<a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" height="100" title="Java documentation" style="animation: pulse 1s infinite alternate;"></a>
 
-<span>[<img src="https://cdn.dribbble.com/users/783/screenshots/104300/media/1bcc6e7e1e7639e892bdec154862eef0.gif?resize=400x300&vertical=center" alt="html" height="100" title="HTML5" style="animation: pulse 1s infinite alternate;">](https://developer.mozilla.org/en-US/docs/Web/HTML)</span>
+<a href="https://docs.oracle.com/en/java/"><img src="
+https://miro.medium.com/v2/resize:fit:502/0*8Au6QYi7tfdafaBQ.gif" alt="java" height="100" title="Java documentation" style="animation: pulse 1s infinite alternate;"></a>
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="100" title="CSS3" style="animation: pulse 1s infinite alternate;"></a>
