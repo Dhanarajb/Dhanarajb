@@ -34,12 +34,6 @@
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="reactnative" height="100" title="React Native" style="animation: flip 1s infinite;">
 </a>
 
-<style>
-    @keyframes flip {
-        0% { transform: perspective(1000px) rotateY(0deg); }
-        100% { transform: perspective(1000px) rotateY(360deg); }
-    }
-</style>
 
 
 
