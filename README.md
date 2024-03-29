@@ -1,6 +1,8 @@
 # Hi, I'm Dhanaraj Bhaskar (💻💖☕) [![nominate](https://img.shields.io/badge/nominate-%20@dhanarajb%20as%20GitHub%20Star-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
 
 [Medium](https://medium.com/@dhanarajbhaskar)
+---
+[![GitHub stars](https://img.shields.io/github/stars/Dhanarajb?style=social)](https://github.com/Dhanarajb)
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qciKgKuGSCg3rSekbvTRxQ.gif" alt="Front-End Development" width="400">
@@ -39,7 +41,7 @@
 
 
 
-[![GitHub stars](https://img.shields.io/github/stars/Dhanarajb?style=social)](https://github.com/Dhanarajb)
+
 
 <div style="overflow: hidden;">
     <p style="white-space: nowrap; animation: slide 10s linear infinite;">
