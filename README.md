@@ -1,4 +1,4 @@
-# Hi, I'm Dhanaraj Bhaskar (💻💖☕) [![nominate](https://img.shields.io/badge/nominate-%20@dhanarajb%20as%20GitHub%20Star-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
+<h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Dhanaraj Bhaskar</h1> (💻💖☕) [![nominate](https://img.shields.io/badge/nominate-%20@dhanarajb%20as%20GitHub%20Star-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
 
 [Medium](https://medium.com/@dhanarajbhaskar)
 ---
