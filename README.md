@@ -26,11 +26,7 @@
 
 
 
-<div style="overflow: hidden;">
-    <p style="white-space: nowrap; animation: slide 10s linear infinite;">
-        I'm a passionate software developer with expertise in various technologies. Here's a glimpse of what I work with:
-    </p>
-</div>
+### :fire: Streaks 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dhanarajb)](https://git.io/streak-stats)  
 
