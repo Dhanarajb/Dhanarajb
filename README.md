@@ -50,6 +50,28 @@
     </p>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dhanarajb)](https://git.io/streak-stats)  
+
+### 📈 Github Stats (Amongst top 50%)
+![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=Dhanarajb&show_icons=true&hide=issues,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanarajb&layout=compact&langs_count=4)
+
+### :coffee: Hit Me Up Here
+<p align="center">
+	<a href="https://github.com/Dhanarajb" alt="Github" title="github">
+       <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
+    </a>
+    <a href="https://github.com/Dhanarajb/Dhanarajb" alt="Github Stars" title="Star Mark Repo">
+        <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
+    </a>
+    <a href="https://www.linkedin.com/in/Dhanarajb/">
+        <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/suman.ghosts/">
+        <img src="https://img.shields.io/badge/For_Personal_Updates-2k?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
+    </a>
+</p>
+
 ## 💻 Technologies I Work With:
 
 - **Languages:** HTML, CSS, JavaScript, Java
