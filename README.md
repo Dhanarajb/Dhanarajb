@@ -4,6 +4,14 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Dhanarajb?style=social)](https://github.com/Dhanarajb)
 
+### :man_technologist: About Me 
+- 👨‍💻 Pronouns: He/Him
+- 💼 Currently, I hold the position of **Software Engineer 2** at [ACL Digital].
+- 📋 Previously, I served as a Software Engineer at [Tech Mahindra].
+- 🎓 I have a solid background with 6-7 internships primarily focused on frontend development.
+- 💡 I am proficient in both frontend and backend development, and I enjoy exploring new technologies.
+- 🎤 I am passionate about public speaking and engaging with audiences at events.
+- 📫 You can reach me through my social links provided below.
 
 
 ### :hammer_and_wrench: Languages and Tools 
