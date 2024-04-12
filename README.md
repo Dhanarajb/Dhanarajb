@@ -1,8 +1,13 @@
-<h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Dhanaraj Bhaskar</h1> 
+<h1 align="center">Hola, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Dhanaraj Bhaskar</h1> 
+
 ---
-![Medium](https://medium.com/@dhanarajbhaskar)
+
+[Medium](https://medium.com/@dhanarajbhaskar)
+
 ---
+
 [![GitHub stars](https://img.shields.io/github/stars/Dhanarajb?style=social)](https://github.com/Dhanarajb)
+
 ---
 
 <p align="center">
