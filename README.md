@@ -4,9 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Dhanarajb?style=social)](https://github.com/Dhanarajb)
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qciKgKuGSCg3rSekbvTRxQ.gif" alt="Front-End Development" width="400">
-</p>
+
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
