@@ -56,6 +56,21 @@
 ![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=Dhanarajb&show_icons=true&hide=issues,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanarajb&layout=compact&langs_count=4)
 
+
+
+## 💻 Technologies I Work With:
+
+- **Languages:** HTML, CSS, JavaScript, Java
+- **Frameworks/Libraries:** ReactJS, React Native
+- **Version Control:** Git
+- **Styling:** SCSS
+- **Others:** GitHub
+
+## 🌱 Currently Learning:
+
+- Advanced ReactJS concepts
+- Data Structures and Algorithms
+
 ### :coffee: Hit Me Up Here
 <p align="center">
 	<a href="https://github.com/Dhanarajb" alt="Github" title="github">
@@ -71,23 +86,3 @@
         <img src="https://img.shields.io/badge/For_Personal_Updates-2k?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
     </a>
 </p>
-
-## 💻 Technologies I Work With:
-
-- **Languages:** HTML, CSS, JavaScript, Java
-- **Frameworks/Libraries:** ReactJS, React Native
-- **Version Control:** Git
-- **Styling:** SCSS
-- **Others:** GitHub
-
-## 🌱 Currently Learning:
-
-- Advanced ReactJS concepts
-- Data Structures and Algorithms
-
-## 📫 Get in Touch:
-
-- Connect with me on [LinkedIn]([https://www.linkedin.com/in/dhanarajb](https://www.linkedin.com/in/dhanaraj-bhaskar-532111b9/))
-- Follow me on [Twitter]([https://twitter.com/dhanarajb](https://twitter.com/b_dhanaraj))
-
-Let's connect and collaborate on exciting projects together! 😊
