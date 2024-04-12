@@ -1,14 +1,8 @@
 <h1 align="center">Hola, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Dhanaraj Bhaskar</h1> 
 
----
-
 [Medium](https://medium.com/@dhanarajbhaskar)
 
----
-
 [![GitHub stars](https://img.shields.io/github/stars/Dhanarajb?style=social)](https://github.com/Dhanarajb)
-
----
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qciKgKuGSCg3rSekbvTRxQ.gif" alt="Front-End Development" width="400">
