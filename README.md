@@ -1,8 +1,4 @@
 
-dhanaraj bhaskar <dhanarajbhaskar690@gmail.com>
-12:18 PM (0 minutes ago)
-to me
-
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -11,7 +7,7 @@ to me
 
   <div>
     <div align="center">
-        <a href="https://github.com/myselshivams"><img src="myselfshivams.png" height="400" /></a>
+        <a href="https://github.com/Dhanarajb"><img src="[myselfshivams.png](https://media.licdn.com/dms/image/v2/D5603AQFaOk5p89Ls0A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718979617034?e=1734566400&v=beta&t=46r_XFava7XbJs31Vzeg_3ticFVuzuVv6pXLTxLhK84)" height="400" /></a>
     </div>
    
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
