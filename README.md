@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate **Software Engineer** at **[Cisco]** with a knack for building efficient, user-friendly web applications. With **6-7 months** of hands-on experience through internships, I thrive on challenges and constantly seek to learn and grow in my craft.  
+I'm a passionate **Software Engineer** at **[Cisco]** with a knack for building efficient, user-friendly web applications. I thrive on challenges and constantly seek to learn and grow in my craft.  
 
 - **Pronouns:** He/Him
 - **Previous Experience:** Software Engineer at **[Tech Mahindra]**
