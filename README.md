@@ -13,7 +13,7 @@
 I'm a passionate **Software Engineer** at **[Cisco]** with a knack for building efficient, user-friendly web applications. I thrive on challenges and constantly seek to learn and grow in my craft.  
 
 - **Pronouns:** He/Him
-- **Previous Experience:** Software Engineer at **[Tech Mahindra]**
+- **Previous Experience:** Software Engineer at **[Cisco]**
 - **Skills:** Proficient in frontend and backend development, with a love for exploring cutting-edge technologies.
 - **Public Speaking:** An enthusiastic speaker who enjoys sharing knowledge at tech events.
 - **Connect with me:** Let’s chat through the social links below!
